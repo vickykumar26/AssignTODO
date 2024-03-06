@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61383984271",
+    "project_id": "assigntodo-44b87",
+    "storage_bucket": "assigntodo-44b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61383984271:android:1a8c6d124993aa270edcfa",
+        "android_client_info": {
+          "package_name": "com.vickyproject.assigntodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT1ha16A3QNnQ-nOP-ZRVfJb3058XdEfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
